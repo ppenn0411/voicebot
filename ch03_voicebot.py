@@ -2,7 +2,7 @@ import streamlit as st
 from audiorecorder import audiorecorder
 import openai
 import os
-from datetime import datetimeg
+from datetime import datetime
 from gtts import gTTS
 import base64
 
